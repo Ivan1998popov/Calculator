@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+
+    <string name="woman">Женшина</string>
+    <string name="man">Мужчина</string>
+    <string name="calculate">Рассчитать</string>
+    <string name="height">Ваш рост</string>
+    <string name="height_value">Введите Ваш рост</string>
+    <string name="weight">Ваш идеальный вес</string>
+    <string name="weight_value">Здесь будет отражен Ваш идеальный вес</string>
+    <string name="add_kg">" кг"</string>
+
+</resources>
